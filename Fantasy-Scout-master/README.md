@@ -11,4 +11,4 @@
 * Project Manager: Kevin Kluka (kevinWayneState)
 * Data Collection: Grant Jones (GrantJonesWSU)
 * Backend Manager: Josh Perkey (Joshperkey)
-* Frontend Manager: Harvey Tully (fr4800)
+* Frontend Manager: Harvey Tully (harveyjr96)
